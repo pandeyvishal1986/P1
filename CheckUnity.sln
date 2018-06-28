@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckUnity", "CheckUnity\CheckUnity.csproj", "{FDE83EF0-532A-47A4-B029-92E2F834F163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CE728417-E86E-4C18-AB06-97D39822932F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE83EF0-532A-47A4-B029-92E2F834F163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE83EF0-532A-47A4-B029-92E2F834F163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE83EF0-532A-47A4-B029-92E2F834F163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE83EF0-532A-47A4-B029-92E2F834F163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE728417-E86E-4C18-AB06-97D39822932F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE728417-E86E-4C18-AB06-97D39822932F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE728417-E86E-4C18-AB06-97D39822932F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE728417-E86E-4C18-AB06-97D39822932F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19EE38D1-65EC-412B-8869-30085736D1A9}
+	EndGlobalSection
+EndGlobal

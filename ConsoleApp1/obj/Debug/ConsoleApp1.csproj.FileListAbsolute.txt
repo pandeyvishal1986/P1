@@ -1,0 +1,7 @@
+E:\Test_Projects\CheckUnity\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Test_Projects\CheckUnity\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Test_Projects\CheckUnity\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Test_Projects\CheckUnity\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Test_Projects\CheckUnity\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Test_Projects\CheckUnity\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Test_Projects\CheckUnity\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
