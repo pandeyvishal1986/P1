@@ -15,13 +15,13 @@ namespace CheckUnity.Controllers
         public ActionResult Index()
         {
 
-            //using (var ctx = new SchoolDBContext())
-            //{
-            //    var stud = new Student() { StudentName = "Bill2" };
+            using (var ctx = new SchoolDBContext())
+            {
+                var stud = new Student() { StudentName = "bill112" };
 
-            //    ctx.Students.Add(stud);
-            //    ctx.SaveChanges();
-            //}
+                ctx.Students.Add(stud);
+                ctx.SaveChanges();
+            }
             return View();
         }
     }
