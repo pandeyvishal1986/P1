@@ -35,6 +35,14 @@ namespace SchoolDataLayer
             defaultStandards.Add(new Student() { StudentName = "Bill3", Weight = 100 });
 
             context.Students.AddRange(defaultStandards);
+
+            IList<Grade> defaultGrades = new List<Grade>();
+
+            defaultGrades.Add(new Grade() {GradeName = "1w" });
+            defaultGrades.Add(new Grade() {GradeName = "1e" });
+            defaultGrades.Add(new Grade() {GradeName = "1r" });
+
+            context.Grades.AddRange(defaultGrades);
             base.Seed(context);
         }
     }
